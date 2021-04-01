@@ -38,11 +38,3 @@ export default function App() {
     </div>    
   )
 }
-
-      {/* {state.length > 0 && state.map((el, i) => 
-        <div key={i} className={'container'}>
-          <h4>ID : {el._id}</h4>
-          <h4>Name : {el.name}</h4>
-          <h4>Trips: {el.trips}</h4>
-        </div>
-      )} */}
